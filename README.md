@@ -4,7 +4,7 @@ I build small, pragmatic tools that make high-friction work faster: local-first 
 
 ## Current Projects
 
-- [j260101-article-reports](https://github.com/aadr1024/j260101-article-reports) - Streamlit image-labeling workflow for structured report evidence
+- [field-photo-report-labeler](https://github.com/aadr1024/field-photo-report-labeler) - Label field photos into structured report evidence
 - [get-gmail-full-thread](https://github.com/aadr1024/get-gmail-full-thread) - Export Gmail threads to plain text via the Gmail API
 - [ttyd-ios-terminal](https://github.com/aadr1024/ttyd-ios-terminal) - iOS-friendly ttyd web terminal with sessions and controls
 - [tempstore](https://github.com/aadr1024/tempstore) - Quick terminal snippet storage with fzf
