@@ -1,4 +1,17 @@
-# Current Projects
+# Aadi Rajesh
 
+I build small, pragmatic tools that make high-friction work faster: local-first automation, document workflows, field-data review, and AI-assisted operations.
+
+## Current Projects
+
+- [j260101-article-reports](https://github.com/aadr1024/j260101-article-reports) - Streamlit image-labeling workflow for structured report evidence
+- [get-gmail-full-thread](https://github.com/aadr1024/get-gmail-full-thread) - Export Gmail threads to plain text via the Gmail API
+- [ttyd-ios-terminal](https://github.com/aadr1024/ttyd-ios-terminal) - iOS-friendly ttyd web terminal with sessions and controls
 - [tempstore](https://github.com/aadr1024/tempstore) - Quick terminal snippet storage with fzf
-- [ttyd-ios-terminal](https://github.com/aadr1024/ttyd-ios-terminal) - iOS-friendly ttyd web terminal with sessions + controls
+
+## What I like building
+
+- Local-first tools that keep private data under user control
+- Automation for repetitive document/report workflows
+- Interfaces that reduce review time and decision friction
+- Small CLIs and web apps that solve one concrete problem well
